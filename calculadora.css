@@ -1,0 +1,103 @@
+body{
+    font-family: sans-serif;
+    justify-content: center;
+    margin-left: 36%;
+    margin-top: 2%;
+    background-color: royalblue;
+    
+}
+
+#calc{
+    font-family: sans-serif;
+    margin-left: 4%;
+    padding:10px;
+    border-radius: 10px;
+    border:1px, solid;
+    display:block;
+    font-size: 30px;
+}
+    
+
+#nome{
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border:1px, solid;
+    display:block;
+    box-shadow: orangered;
+    background-color: paleturquoise;
+}
+
+#altura{
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border:1px, solid;
+    display:block;
+    box-shadow: orangered;
+    background-color: paleturquoise;
+}
+
+#peso{
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border:1px, solid;
+    display:block;
+    box-shadow: orangered;
+    background-color: paleturquoise;
+}
+
+#nome[type=text],[name=Idade],[value=Idade]{
+    border:1px, solid;
+    display:block;
+
+}
+
+#altura[type=text],[name=Altura],[value=Altura]{
+    border:1px, solid;
+    display:block;
+
+}
+
+#peso[type=text],[name=Peso],[value=Peso]{
+    border:1px, solid;
+    display:block;
+}
+
+#box{
+    margin-left: 10%;
+    margin-top: 0.5%;
+    padding-top: 1px;
+    padding-bottom: 100px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border:solid;
+    box-shadow: orangered;
+    background-color: #808080;
+}
+
+#calcular{
+    margin-left: 10%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding: 10px;
+    padding-left: 74px;
+    padding-right: 74px;
+    background-color:rgb(255,140,0);
+}
+
+#id{
+  margin-left: 10%;
+  padding: 10px;
+}
+
+#al{
+  margin-left: 10%;
+  padding: 10px;
+}
+
+#pe{
+  margin-left: 10%;
+  padding: 10px;
+}
